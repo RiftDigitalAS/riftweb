@@ -1,0 +1,2 @@
+# riftweb
+The Rift website
